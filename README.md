@@ -1,3 +1,8 @@
-# m02f
+Continuing on from the prior unit, this project contails the resulting output of the instructor's AI when prompted for a sidebar text visibility fix in `people_headcount_app.py`.  The learner can optionally begin prompting from here for prioritization cleanup.
 
-Sidebar readability fixed. Starting point for prioritization cleanup.
+To run the Streamlit app:
+
+```bash
+streamlit run people_headcount_app.py
+```
+

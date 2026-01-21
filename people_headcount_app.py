@@ -1,3 +1,11 @@
+### Headcount Simulator App
+### m02f/people_headcount_app.py
+###
+### Author: Sharon + GitHub Copilot
+### Date: Jan 20, 2026
+###
+### Readable sidebar headcount app.
+
 import streamlit as st
 import pandas as pd
 import altair as alt
